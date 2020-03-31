@@ -4,4 +4,9 @@ public class HelloGit {
     public static void main(String[] args) {
         System.out.println("hello git ok");
     }
+
+    public void show(){
+        int id = 1;
+        System.out.println("show  "+id);
+    }
 }
